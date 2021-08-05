@@ -6,6 +6,6 @@
 
 Sobre **Kotlin**:
 
-1. Bootcamp **Digital Innovation One** em parceria com a **INTER**. 
-   - Calculadora
+1. Bootcamp Inter Android Developer - **Digital Innovation One** 
+   - [Calculadora](/IntroducaoAoKotlin)
 
