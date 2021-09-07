@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_cards">Cartões de visita</string>
+    <string name="label_description_new_card">Novo cartão</string>
+    <string name="label_alteration_card">Altera Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="msg_inclusao_ok">Registro inserido com sucesso.</string>
+    <string name="msg_alteracao_ok">Registro inserido com sucesso.</string>
+    <string name="msg_preenchimento_ok">Todos os campos devem ser preenchidos.</string>
+    <string name="label_share_to">Compartilhar</string>
+    <string name="close">close</string>
+    <string name="cordefundo">corDeFundo</string>
+    <string name="hint_cor"><font size="38">use os controles abaixo para selecionar a cor do cartão</font></string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+
+</resources>
