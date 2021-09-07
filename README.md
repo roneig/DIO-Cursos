@@ -7,7 +7,7 @@
 Sobre **Kotlin**:
 
 1. Bootcamp Inter Android Developer - **Digital Innovation One** 
-   - [Calculadora](/IntroducaoAoKotlin/calculadora)
+   - [Calculadora](/IntroducaoAoKotlin)
 
 2. Desafios matemáticos em Kotlin
-	- [Análise de Números](/DesafiosMatematicosEmKotlin/analiseDeNumeros)
+	- [Análise de Números](/DesafiosMatematicosEmKotlin)
