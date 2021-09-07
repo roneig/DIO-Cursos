@@ -10,4 +10,6 @@ Sobre **Kotlin**:
    - [Calculadora](/IntroducaoAoKotlin)
 
 2. Desafios matemáticos em Kotlin
-	- [Análise de Números](/DesafiosMatematicosEmKotlin)
+	- [Análise de números](/DesafiosMatematicosEmKotlin)
+	- [Consumo médio do automóvel](/DesafiosMatematicosEmKotlin)
+	- [Coxinha de Bueno](/DesafiosMatematicosEmKotlin)
