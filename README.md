@@ -15,3 +15,16 @@ Sobre **Kotlin**:
 	- [Coxinha de Bueno](/DesafiosMatematicosEmKotlin)
 
 3. [Criando um App de Cartão de Visitas em Kotlin](/BusinessCard)
+
+4. Praticando aritmética em Kotlin
+	- [Coluna na matriz](/PraticandoAritméticaEmKotlin)
+	- [Exibindo números pares](/PraticandoAritméticaEmKotlin)
+	- [Fibonacci fácil](/PraticandoAritméticaEmKotlin)
+	- [Preenchimento de vetor](/PraticandoAritméticaEmKotlin)
+	- [Substituição em vetor](/PraticandoAritméticaEmKotlin)
+
+5. Solucionando desafios em Kotlin
+	- [Acima da diagonal principal](/SolucionandoDesafiosEmKotlin)
+	- [Área do círculo](/SolucionandoDesafiosEmKotlin)
+	- [Média 1](/SolucionandoDesafiosEmKotlin)
+
