@@ -28,5 +28,5 @@ Sobre **Kotlin**:
 	- [Área do círculo](/SolucionandoDesafiosEmKotlin)
 	- [Média 1](/SolucionandoDesafiosEmKotlin)
 
-6. [App para listar repositórios do github](/app-repositories)
+6. [App para listar repositórios do github](/AppRepositories)
 
